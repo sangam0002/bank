@@ -79,4 +79,3 @@ def check_balance(account_no):
     conn.close()
     return data
 
-    
